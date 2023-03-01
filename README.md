@@ -31,3 +31,16 @@ The business outcomes you are designing for are as follows:
 ## Tasks for the project
 ### Task 1: Design a star schema based on the business outcomes below
 <img src="./images/divvy_star_schema.jpg" title="Divvy Star Schema">
+
+### Task 2: Import the data into Azure Databricks using Delta Lake to create a Bronze data store
+
+#### 2.1 Create Azure Databricks Workspace
+<img src="./images/create_azure_databricks.png" title="Create Azure Databricks Workspace">
+
+
+#### 2.2 Create Azure Databricks Cluster
+<img src="./images/create_cluster.png" title="Create Azure Databricks Cluster">
+
+#### 2.3 Import the data into DBFS
+<img src="./images/upload_file_dbfs.png" title="Import the data into DBFS">
+
