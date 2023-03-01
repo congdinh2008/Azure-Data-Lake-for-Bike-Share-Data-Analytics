@@ -59,3 +59,21 @@ Create Staging Trips
 <img src="./images/data_explorer_staging_trips.png" title="Create Staging Trips">
 
 
+### Task 4: Transform the data into the star schema for a Gold data store
+
+Create Dimension Stations
+<img src="./images/data_explorer_dim_stations.png" title="Create Dimension Stations">
+
+Create Dimension Riders
+<img src="./images/data_explorer_dim_riders.png" title="Create Dimension Riders">
+
+Create Dimension Dates
+<img src="./images/data_explorer_dim_dates.png" title="Create Dimension Dates">
+
+Create Fact Payments
+<img src="./images/data_explorer_fact_payments.png" title="Create Fact Payments">
+
+Create Fact Trips
+<img src="./images/data_explorer_fact_trips.png" title="Create Fact Trips">
+
+### End
