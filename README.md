@@ -27,3 +27,7 @@ The business outcomes you are designing for are as follows:
 3. EXTRA CREDIT - Analyze how much money is spent per member
 - Based on how many rides the rider averages per month
 - Based on how many minutes the rider spends on a bike per month
+
+## Tasks for the project
+### Task 1: Design a star schema based on the business outcomes below
+<img src="./images/divvy_star_schema.jpg" title="Divvy Star Schema">
