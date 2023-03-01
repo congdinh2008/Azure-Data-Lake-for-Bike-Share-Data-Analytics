@@ -44,3 +44,18 @@ The business outcomes you are designing for are as follows:
 #### 2.3 Import the data into DBFS
 <img src="./images/upload_file_dbfs.png" title="Import the data into DBFS">
 
+
+### Task 3: Create a gold data store in Delta Lake tables
+Create Staging Stations
+<img src="./images/data_explorer_staging_stations.png" title="Create Staging Stations">
+
+Create Staging Riders
+<img src="./images/data_explorer_staging_riders.png" title="Create Staging Riders">
+
+Create Staging Payments
+<img src="./images/data_explorer_staging_payments.png" title="Create Staging Payments">
+
+Create Staging Trips
+<img src="./images/data_explorer_staging_trips.png" title="Create Staging Trips">
+
+

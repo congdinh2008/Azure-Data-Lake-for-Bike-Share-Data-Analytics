@@ -1,1 +1,8 @@
 .DS_Store
+data/payments.csv
+.gitignore
+.gitignore
+data/stations.csv
+.gitignore
+data/riders.csv
+data/trips.csv
